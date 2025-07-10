@@ -1,2 +1,3 @@
 mountpoints:
-  /: https://drive.google.com/drive/folders/1P0QkIVj-eCBvWQZ4seguhNwd8OSJHFea?usp=sharing
+    url: https://content.da.live/tkennedy12/tkennedywknd/
+    type: markup
